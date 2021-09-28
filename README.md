@@ -8,7 +8,7 @@
 ```
 mvn spring-boot:run
 ```
-## Test Spring Boot JPA CRUD Example
+## Test Spring Boot Swagger 3 Security Example
 <ol>
 <li>Open http://localhost:8080/swagger-ui.html in browser to view the Swagger UI documentation. </li>
 <li>You can notice the "open lock icon", because we have not done Authorization yet.</li>
